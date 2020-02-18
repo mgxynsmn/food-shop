@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec085626-4d68-444a-8278-812b9f258e86" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/food-shop-api/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-api/target/food-shop-api-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-api/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-common/target/food-shop-common-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-common/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-mapper/target/classes/mapper/CarouselMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-mapper/target/classes/mapper/CategoryMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-mapper/target/classes/mapper/CategoryMapperCustom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-mapper/target/classes/mapper/ItemsCommentsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-mapper/target/classes/mapper/ItemsCommentsMapperCustom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-mapper/target/classes/mapper/ItemsImgMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-mapper/target/classes/mapper/ItemsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-mapper/target/classes/mapper/ItemsMapperCustom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-mapper/target/classes/mapper/ItemsParamMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-mapper/target/classes/mapper/ItemsSpecMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-mapper/target/classes/mapper/OrderItemsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-mapper/target/classes/mapper/OrderStatusMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-mapper/target/classes/mapper/OrdersMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-mapper/target/classes/mapper/OrdersMapperCustom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-mapper/target/classes/mapper/StuMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-mapper/target/classes/mapper/UserAddressMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-mapper/target/classes/mapper/UsersMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-mapper/target/food-shop-mapper-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-mapper/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-mapper/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-mapper/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-mapper/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-mapper/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-pojo/target/food-shop-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-pojo/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-pojo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-pojo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-service/target/food-shop-service-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-service/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/food-shop-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$" />
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1XyQ1SEOBcV9MOJ306gHJTUgllx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/food-shop-pojo/src/main/java/com/imooc/pojo" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.25714287" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/food-shop-pojo/src/main/java/com/imooc/pojo" />
+      <recent name="$PROJECT_DIR$/food-shop-pojo/src/main/java" />
+      <recent name="$PROJECT_DIR$/food-shop-mapper/src/main/resources" />
+      <recent name="$PROJECT_DIR$/food-shop-mapper/src/main/java" />
+      <recent name="$PROJECT_DIR$/food-shop-common/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="food-shop-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec085626-4d68-444a-8278-812b9f258e86" name="Default Changelist" comment="" />
+      <created>1582015638136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582015638136</updated>
+      <workItem from="1582015641447" duration="1354000" />
+      <workItem from="1582017014109" duration="1528000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="165" key="#Project_Structure" timestamp="1582016108332">
+      <screen x="0" y="23" width="1680" height="953" />
+    </state>
+    <state x="440" y="165" key="#Project_Structure/0.23.1680.953@0.23.1680.953" timestamp="1582016108332" />
+    <state x="705" y="400" key="Github.ShareDialog" timestamp="1582018080098">
+      <screen x="0" y="23" width="1680" height="953" />
+    </state>
+    <state x="705" y="400" key="Github.ShareDialog/0.23.1680.953@0.23.1680.953" timestamp="1582018080098" />
+    <state x="498" y="213" key="Github.UntrackedFilesDialog" timestamp="1582018115671">
+      <screen x="0" y="23" width="1680" height="953" />
+    </state>
+    <state x="498" y="213" key="Github.UntrackedFilesDialog/0.23.1680.953@0.23.1680.953" timestamp="1582018115671" />
+    <state width="1638" height="255" key="GridCell.Tab.0.bottom" timestamp="1582031767426">
+      <screen x="0" y="23" width="1680" height="953" />
+    </state>
+    <state width="1638" height="255" key="GridCell.Tab.0.bottom/0.23.1680.953@0.23.1680.953" timestamp="1582031767426" />
+    <state width="1638" height="255" key="GridCell.Tab.0.center" timestamp="1582031767425">
+      <screen x="0" y="23" width="1680" height="953" />
+    </state>
+    <state width="1638" height="255" key="GridCell.Tab.0.center/0.23.1680.953@0.23.1680.953" timestamp="1582031767425" />
+    <state width="1638" height="255" key="GridCell.Tab.0.left" timestamp="1582031767424">
+      <screen x="0" y="23" width="1680" height="953" />
+    </state>
+    <state width="1638" height="255" key="GridCell.Tab.0.left/0.23.1680.953@0.23.1680.953" timestamp="1582031767424" />
+    <state width="1638" height="255" key="GridCell.Tab.0.right" timestamp="1582031767425">
+      <screen x="0" y="23" width="1680" height="953" />
+    </state>
+    <state width="1638" height="255" key="GridCell.Tab.0.right/0.23.1680.953@0.23.1680.953" timestamp="1582031767425" />
+    <state width="1638" height="255" key="GridCell.Tab.1.bottom" timestamp="1582031767426">
+      <screen x="0" y="23" width="1680" height="953" />
+    </state>
+    <state width="1638" height="255" key="GridCell.Tab.1.bottom/0.23.1680.953@0.23.1680.953" timestamp="1582031767426" />
+    <state width="1638" height="255" key="GridCell.Tab.1.center" timestamp="1582031767426">
+      <screen x="0" y="23" width="1680" height="953" />
+    </state>
+    <state width="1638" height="255" key="GridCell.Tab.1.center/0.23.1680.953@0.23.1680.953" timestamp="1582031767426" />
+    <state width="1638" height="255" key="GridCell.Tab.1.left" timestamp="1582031767426">
+      <screen x="0" y="23" width="1680" height="953" />
+    </state>
+    <state width="1638" height="255" key="GridCell.Tab.1.left/0.23.1680.953@0.23.1680.953" timestamp="1582031767426" />
+    <state width="1638" height="255" key="GridCell.Tab.1.right" timestamp="1582031767426">
+      <screen x="0" y="23" width="1680" height="953" />
+    </state>
+    <state width="1638" height="255" key="GridCell.Tab.1.right/0.23.1680.953@0.23.1680.953" timestamp="1582031767426" />
+    <state x="341" y="138" key="SettingsEditor" timestamp="1582015809745">
+      <screen x="0" y="23" width="1680" height="953" />
+    </state>
+    <state x="341" y="138" key="SettingsEditor/0.23.1680.953@0.23.1680.953" timestamp="1582015809745" />
+    <state x="421" y="229" width="837" height="540" key="find.popup" timestamp="1582017496686">
+      <screen x="0" y="23" width="1680" height="953" />
+    </state>
+    <state x="421" y="229" width="837" height="540" key="find.popup/0.23.1680.953@0.23.1680.953" timestamp="1582017496686" />
+    <state x="217" y="197" key="new project wizard" timestamp="1582015722396">
+      <screen x="0" y="23" width="1680" height="953" />
+    </state>
+    <state x="217" y="197" key="new project wizard/0.23.1680.953@0.23.1680.953" timestamp="1582015722396" />
+    <state x="613" y="402" key="svn.passwordDialog" timestamp="1582031891445">
+      <screen x="0" y="23" width="1680" height="953" />
+    </state>
+    <state x="613" y="402" key="svn.passwordDialog/0.23.1680.953@0.23.1680.953" timestamp="1582031891445" />
+    <state x="613" y="195" key="svn.repositoryBrowser" timestamp="1582031894449">
+      <screen x="0" y="23" width="1680" height="953" />
+    </state>
+    <state x="613" y="195" key="svn.repositoryBrowser/0.23.1680.953@0.23.1680.953" timestamp="1582031894449" />
+  </component>
+</project>
